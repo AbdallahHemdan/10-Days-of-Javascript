@@ -1,5 +1,5 @@
 # 10-Days-of-Javascript 
-## To Do List:heart::fire: :
+## To Do List :
 
 1. - [x] Day-0
 2. - [x] Day-1
